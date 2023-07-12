@@ -253,7 +253,7 @@ File,Skipping,Reason
 /um/provexce.h,true,Can't use C++ classes
 /um/provider.h,true,Can't use C++ classes
 /um/refptrco.h,true,Can't use C++ classes
-/um/ringtonedeviceservice.h,Undocumented can't find uses
+/um/ringtonedeviceservice.h,true,Undocumented can't find uses
 /um/sapi51.h,true,Superceded by sapi53.h
 /um/sapiddk51.h,Superceded by sapiddk.h
 /um/sberrors.h,true,What is Session Broker
